@@ -1,0 +1,31 @@
+.computer {
+  height: 400;
+  max-width: 700;
+  border: 1px black solid;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  padding:25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.screen {
+  height: 375px;
+  max-width: 700px;
+  width: 100%;
+  background-color: lightgrey;
+  border: 1px black solid;
+  border-radius: 5px;
+}
+
+.interface {
+  padding:15px;
+}
+
+.computer_bottom {
+  text-align: center;
+  width:100%;
+  padding-top: 12px;
+  font-family: Verdana,sans-serif;
+  font-weight: bold;
+}
